@@ -17,6 +17,11 @@ Tesseract: library for Optical Character Recognition
 sudo-get install tesseract-ocr
 ```
 
+Pytesseract: python wrapper for Tesseract-OCR
+```bash
+pip install pytesseract
+```
+
 ## Usage
 Start up the application using this command:
 ```python
